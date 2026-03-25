@@ -32,7 +32,7 @@ Participants must choose **ONE**:
 2. Create your team folder inside:
 
    ```
-   submissions/team-name/
+   submissions/event-name_team-name/
    ```
 
 3. Add all required files
@@ -127,7 +127,7 @@ Your report or presentation must include:
 
 ## ⏰ Deadline
 
-[Add Date & Time Here]
+25.03.2026 - 30.03.2026
 
 ---
 
